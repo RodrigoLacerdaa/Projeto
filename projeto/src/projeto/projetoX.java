@@ -8,6 +8,7 @@ public class projetoX {
 		int jovemidade = 18;
 		int idosoIdade = 64;
 		
+		adsasdasd
 		
 		System.out.println("qual e a idade da " + criancaIdade);	
 
